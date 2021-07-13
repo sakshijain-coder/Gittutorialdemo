@@ -1,0 +1,11 @@
+1.for adding untracking to tracking....
+$ git add .
+
+2.Staging to commit 
+$ git commit -m "Any msg!"
+
+3.saving on github
+$ git push -u origin main
+
+4.make a alias for command
+$ git config --global alias.st status
