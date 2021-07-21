@@ -34,3 +34,7 @@ git branch --no-merged
 12. delete branch
 git branch -d branch_name (gives warning if u didn't merge)
            -D (use capital d if u don't want any error or warning)
+
+13. adding branches to github 
+git push origin branch_name
+
