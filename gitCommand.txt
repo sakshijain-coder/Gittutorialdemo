@@ -18,3 +18,19 @@ $ git checkout branch_name
 
 7. merge branch--
 git merge branch branch_name
+
+8.check all branch
+git branch
+
+9. check all branch wid last commit
+git branch -v
+
+10. already merge branches
+git branch --merged
+
+11. no merged branches
+git branch --no-merged
+
+12. delete branch
+git branch -d branch_name (gives warning if u didn't merge)
+           -D (use capital d if u don't want any error or warning)
