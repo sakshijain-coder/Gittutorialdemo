@@ -9,3 +9,12 @@ $ git push -u origin main
 
 4.make a alias for command
 $ git config --global alias.st status
+
+5. make a new branch -
+$ git checkout -b branch_name
+
+6. back to other branch--
+$ git checkout branch_name
+
+7. merge branch--
+git merge branch branch_name
